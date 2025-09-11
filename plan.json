@@ -1,0 +1,139 @@
+[
+  {
+    "day": "Lunes",
+    "title": "Superior (empuje/tirón) + Core",
+    "focus": [
+      "Superior",
+      "Bajar de peso",
+      "Full Body"
+    ],
+    "blocks": [
+      {
+        "name": "Flexiones (push-ups) en banco",
+        "time": "3 x 40\"",
+        "video": "https://www.youtube.com/watch?v=WDIpL0pjun0"
+      },
+      {
+        "name": "Remo con banda elástica",
+        "time": "3 x 40\"",
+        "video": "https://www.youtube.com/watch?v=LSkyinhmA8k"
+      },
+      {
+        "name": "Plancha frontal",
+        "time": "3 x 30-40\"",
+        "video": "https://www.youtube.com/watch?v=ASdvN_XEl_c"
+      },
+      {
+        "name": "HIIT caminata (bajo impacto)",
+        "time": "8-10 min",
+        "video": "https://www.youtube.com/watch?v=CHXk-ZaLrCI"
+      }
+    ]
+  },
+  {
+    "day": "Martes",
+    "title": "Inferior (rodilla-friendly)",
+    "focus": [
+      "Inferior",
+      "Bajar de peso",
+      "Full Body"
+    ],
+    "blocks": [
+      {
+        "name": "Step-ups bajos",
+        "time": "3 x 12 por pierna",
+        "video": "https://www.youtube.com/watch?v=WCFCdxzFBa4"
+      },
+      {
+        "name": "Puente de glúteos",
+        "time": "3 x 15",
+        "video": "https://www.youtube.com/watch?v=wPM8icPu6H8"
+      },
+      {
+        "name": "Bisagra de cadera (hip hinge)",
+        "time": "3 x 12",
+        "video": "https://www.youtube.com/watch?v=rMFJzBan4G4"
+      },
+      {
+        "name": "HIIT de bajo impacto",
+        "time": "10 min",
+        "video": "https://www.youtube.com/watch?v=JB5S6mkicEc"
+      }
+    ]
+  },
+  {
+    "day": "Miércoles",
+    "title": "Quema grasa + Core",
+    "focus": [
+      "Bajar de peso",
+      "Full Body"
+    ],
+    "blocks": [
+      {
+        "name": "Mountain climbers lentos",
+        "time": "4 x 30\"",
+        "video": "https://www.youtube.com/watch?v=cnyTQDSE884"
+      },
+      {
+        "name": "Plancha (variaciones)",
+        "time": "4 x 30-40\"",
+        "video": "https://www.youtube.com/watch?v=ASdvN_XEl_c"
+      },
+      {
+        "name": "Caminata HIIT",
+        "time": "10-15 min",
+        "video": "https://www.youtube.com/watch?v=CHXk-ZaLrCI"
+      }
+    ]
+  },
+  {
+    "day": "Jueves",
+    "title": "Superior (hombros y espalda)",
+    "focus": [
+      "Superior",
+      "Full Body"
+    ],
+    "blocks": [
+      {
+        "name": "Hombros con banda (I-Y-T)",
+        "time": "3 x 12",
+        "video": "https://www.youtube.com/watch?v=KIP6MRRiMrw"
+      },
+      {
+        "name": "Remo con banda elástica",
+        "time": "3 x 12-15",
+        "video": "https://www.youtube.com/watch?v=LSkyinhmA8k"
+      },
+      {
+        "name": "Flexiones en pared",
+        "time": "3 x 10-12",
+        "video": "https://www.youtube.com/watch?v=WDIpL0pjun0"
+      }
+    ]
+  },
+  {
+    "day": "Viernes",
+    "title": "Inferior + Técnica",
+    "focus": [
+      "Inferior",
+      "Full Body"
+    ],
+    "blocks": [
+      {
+        "name": "Sentadilla (técnica y rango)",
+        "time": "3 x 10-12",
+        "video": "https://www.youtube.com/watch?v=gcNh17Ckjgg"
+      },
+      {
+        "name": "Step-ups controlados",
+        "time": "3 x 12 por pierna",
+        "video": "https://www.youtube.com/watch?v=WCFCdxzFBa4"
+      },
+      {
+        "name": "Puente de glúteos",
+        "time": "3 x 15",
+        "video": "https://www.youtube.com/watch?v=wPM8icPu6H8"
+      }
+    ]
+  }
+]
